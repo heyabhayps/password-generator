@@ -1,4 +1,4 @@
-# 🔐 Password Generator
+# 🔐 __Password Generator
 
 A simple and secure **Password Generator** built using **Python**.  
 This project generates strong, random passwords using a combination of **uppercase letters, lowercase letters, numbers, and special characters**.
